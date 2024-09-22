@@ -12,7 +12,7 @@
 
 <h3 align="center">hey there 👋,  I'm Kamlesh Kumar<br>A passionate Full-stack developers from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https:///161921919/Portrait-animated-gif/modules/913447149">
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerkamlesh04&label=Profile%20views&color=0e75b6&style=flat" alt="developerkamlesh04" /> </p>
 
