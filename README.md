@@ -2,8 +2,6 @@
   <img height="148" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZheTkzZzc5OGgxODNlYXBtMHhmb3FhbDlwNWZuZmpyejg5aTVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"  />
 </div>
 
-###
-
 <div align="center">
   <a href="www.linkedin.com/in/coder-kamlesh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -18,13 +16,22 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [E-Learning Website](on-the-way)<br><br>- 🌱 I’m currently learning **Backend**<br><br>- 💬 Ask me about **HTML, CSS**<br><br>- ⚡ Fun fact **I think I am funny**<br><br>- 📫 How to reach me **kamleshwebstudio@gmail.com**</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerkamlesh04&label=Profile%20views&color=0e75b6&style=flat" alt="developerkamlesh04" /> </p>
 
-###
+- 🔭 I’m currently working on **[E-Learning Website](on-the-way)**
+
+- 🌱 I’m currently learning **Backend**
+
+- 💬 Ask me about **HTML,CSS**
+
+- 📫 How to reach me **kamleshwebstudio@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<p align="left">
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -46,8 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerkamlesh04&" alt="developerkamlesh04" /></p>
+
