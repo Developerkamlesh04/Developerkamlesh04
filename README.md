@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">hey there 👋,  I'm Kamlesh Kumar<br>A passionate frontend developer from India</h3>
+<h3 align="center">hey there 👋,  I'm Kamlesh Kumar<br>A passionate Full-stack developers from India</h3>
 
 ###
 
