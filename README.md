@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" -->
-<iframe src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm"
+
+//https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
 <p align="left" </p>
 
