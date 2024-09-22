@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="148" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZheTkzZzc5OGgxODNlYXBtMHhmb3FhbDlwNWZuZmpyejg5aTVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"  />
-</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerkamlesh04" alt="developerkamlesh04" /></a> </p>
 
 <div align="center">
   <a href="www.linkedin.com/in/coder-kamlesh" target="_blank">
