@@ -53,7 +53,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Developerkamlesh04&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Developerkamlesh04&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developerkamlesh04&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
