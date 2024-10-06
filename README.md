@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=developerkamlesh04" alt="developerkamlesh04" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Developerkamlesh04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
   <a href="www.linkedin.com/in/coder-kamlesh" target="_blank">
